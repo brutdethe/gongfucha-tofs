@@ -1,6 +1,7 @@
 baseURL      = "https://www.example.com/"
-title        = "Gallery Deluxe"
+title        = "Gongfucha 2022 - par Sarah Robine"
 disableKinds = ["section", "taxonomy", "term"]
+timeout      = 20000
 
 [params]
     # Set to enable Plausible Analytics.
