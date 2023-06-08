@@ -1,7 +1,7 @@
 baseURL      = "https://www.example.com/"
 title        = "Gongfucha 2022 - par Sarah Robine"
 disableKinds = ["section", "taxonomy", "term"]
-timeout      = 200000
+timeout      = 2000000
 
 [params]
     # Set to enable Plausible Analytics.
