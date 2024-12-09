@@ -1,4 +1,4 @@
-baseURL      = "https://photo.brutdethé.fr"
+baseURL      = "https://photo.gongfucha.fr"
 title        = "Gongfucha 2022 - par Sarah Robine"
 disableKinds = ["section", "taxonomy", "term"]
 timeout      = 2000000
